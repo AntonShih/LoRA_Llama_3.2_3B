@@ -55,7 +55,7 @@
   
 ---
 ## 數據集涵蓋 10 大分類
-來源:LLM  [數據集已上傳Huggung face]([https://github.com/unslothai/unsloth](https://huggingface.co/datasets/AntonShih/FineTome_100k_basic_knowledge_of_mold))
+來源:LLM  [數據集已上傳Huggung_face](https://huggingface.co/datasets/AntonShih/FineTome_100k_basic_knowledge_of_mold)
 
 | **編號** | **分類名稱** | **描述** |
 |---------|------------|---------|
