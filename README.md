@@ -10,7 +10,7 @@
 
 ---
 
-##  LoRA 前後量化比較- [詳細評測結果](https://blue-caption-57f.notion.site/LoRA-1b2ba6c6f6e180be8ebdcb2578492d0b?pvs=73)
+##  LoRA 前後量化比較- [必看詳細評測結果](https://blue-caption-57f.notion.site/LoRA-1b2ba6c6f6e180be8ebdcb2578492d0b?pvs=73)
 
 | **評估指標**       | **LoRA 前 平均分數 (1-10)** | **LoRA 後 平均分數 (1-10)** | **提升幅度 (%)** |
 |-------------------|--------------------|--------------------|--------------|
